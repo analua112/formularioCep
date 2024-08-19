@@ -32,8 +32,8 @@ form input{
 }
 
 .input_botao{
-    width: 500px;
-    height: 50px ;
+    width: 300px;
+    height: 60px;
     border: none;
     color: white;
     background-color: darkorange;
@@ -45,7 +45,7 @@ form input{
 }
 
 .input_botao:hover{
-    width: 300px;
-    height: 60px;
+    width: 500px;
+    height: 50px ;
     background-color: green;
 }
